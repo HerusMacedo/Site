@@ -1,0 +1,39 @@
+*{
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+
+}
+
+header{
+
+
+    background-color: white;
+
+}
+
+
+#cabecalho{
+
+float: right;
+list-style: none;
+
+
+}
+
+#primeiroBloco{
+
+background-color: #D2691E;
+width: 100%;
+height: 25%;
+
+}
+
+#segundoBloco{
+
+background-color: #FAEBD7
+;
+
+}
