@@ -3,7 +3,7 @@
 margin: 0;
 padding: 0;
 box-sizing: border-box;
-font-family: 'Lato', sans-serif;
+font-family: 'Pushster', cursive;
 
 }
 
@@ -11,12 +11,14 @@ header{
 
 
     background-color: white;
-   height: 10vh;
-   display: flex;
-   justify-content: space-between;
-   align-items: center;
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 15px;
 
 }
+
 
 .itens{
 
@@ -48,14 +50,24 @@ background-color: whitesmoke;
 
 background-color: #B8860B;
 width: 100%;
-height: 40vh;
+height: 60vh;
 border-radius: 10px;
 
-}
-
-#segundoBloco{
-
-background-color: #FAEBD7
-;
 
 }
+
+#titulo1{
+
+ 
+    color: white;
+    float: left;
+    font-size: 2.0rem;
+    display: flex;
+    justify-content: space-around;
+
+
+ 
+
+}
+
+
